@@ -4,7 +4,7 @@ An embedded-style C application designed to efficiently manage garage slots, aut
 
 ## Team Members & Contributors
 * **Mariam Alaa** (@mariemalaa2006-eng) - Team Leader, Core Architecture & UI Workflows & Testing
-* **Kolod Fahmy** - Database Management 
+* **Kholod Fahmy** - Database Management 
 
 ## System Features
 * **Dynamic Slot Allocation:** Efficiently assigns or moves vehicles within available parking slots.
