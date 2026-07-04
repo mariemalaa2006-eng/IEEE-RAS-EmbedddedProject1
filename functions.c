@@ -8,7 +8,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <conio.h>
-#include "functions.h"
+#include "functions.h" //header
 
 // ==========================================
 //        GLOBAL VARIABLES DEFINITIONS
