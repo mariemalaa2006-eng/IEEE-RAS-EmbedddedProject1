@@ -3,8 +3,8 @@
 An embedded-style C application designed to efficiently manage garage slots, automate check-ins, record vehicle timestamps, and dynamically calculate parking fees with a custom grace period.
 
 ## Team Members & Contributors
-* **Mariam Alaa** (@mariemalaa2006-eng) - Team Leader, Core Architecture & UI Workflows & Testing
-* **Kholod Fahmy** - Database Management 
+* **Maryam Alaa** (@mariemalaa2006-eng) - Team Leader, Core Architecture , UI Workflows & Testing
+* **Kholod Fahmy** (@kfa6584-lgtm) - Database Management 
 
 ## System Features
 * **Dynamic Slot Allocation:** Efficiently assigns or moves vehicles within available parking slots.
