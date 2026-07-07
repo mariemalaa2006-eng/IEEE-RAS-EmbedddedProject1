@@ -101,26 +101,32 @@ int main() {
             case 1:
                 clrscr();
                 add_vehicle(); // Redirect to registration operational workflow channels
+                save_parking_data();
                 break;
             case 2:
                 clrscr();
                 edit_vehicle(); // Redirect to database node alteration channels
+                save_parking_data();
                 break;
             case 3:
                 clrscr();
                 remove_vehicle(); // Redirect to checkout and checkout logic channels
+                save_parking_data();
                 break;
             case 4:
                 clrscr();
                 search_vehicle(); // Redirect to structural scanning data workflows
+                save_parking_data();
                 break;
             case 5:
                 clrscr();
                 print_vehicle_data(); // Redirect to single element layout visualizers
+                save_parking_data();
                 break;
             case 6:
                 clrscr();
                 display_overview(); // Redirect to statistical overview telemetry control panels
+                save_parking_data();
                 break;
             case 7:
                 clrscr();
